@@ -3,4 +3,4 @@ const welcome =
 
 console.log(welcome);
 
-alert(welcome);
+alert(`Alert ${welcome}`);
