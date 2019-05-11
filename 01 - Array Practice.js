@@ -16,6 +16,8 @@ const arr2 = [
   35
 ];
 
+const arr3 = ["shreyas", "balachandran", "chandra", "bala"];
+
 const arrObj = [
   {
     id: 1,
